@@ -8,7 +8,6 @@ import es.teis.data.exceptions.InstanceNotFoundException;
 import es.teis.db.DBCPDataSourceFactory;
 import es.teis.model.Partido;
 import es.teis.model.dao.AbstractGenericDao;
-import java.math.BigDecimal;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
