@@ -27,7 +27,7 @@ public class MainUD2 {
         partidoServicio.crearPartidos(partidos);
         
         
-        //partidoServicio.transferirVotos("Cs", "PP", 100);
+        partidoServicio.transferirVotos("Cs", "PP", 100);
     }
 
     private static ArrayList<Partido> crearPartidos() {
